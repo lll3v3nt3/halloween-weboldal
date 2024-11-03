@@ -17,14 +17,14 @@ export function HalloweenSection() {
           <Card className="p-6 bg-gray-100 rounded-lg shadow-md space-y-4">
             <h3 className="text-xl font-semibold text-gray-800">Szimbólumok</h3>
             <p className="text-gray-600">
-              A töklámpás (Jack-o'-lantern) az ünnep egyik legismertebb jelképe, amelyet faragott tökből készítenek. Emellett a szellemek, boszorkányok és különféle ijesztő dekorációk is az ünnep szerves részét képezik.
+              A töklámpás (Jack-o&apos;-lantern) az ünnep egyik legismertebb jelképe, amelyet faragott tökből készítenek. Emellett a szellemek, boszorkányok és különféle ijesztő dekorációk is az ünnep szerves részét képezik.
             </p>
           </Card>
 
           <Card className="p-6 bg-gray-100 rounded-lg shadow-md space-y-4">
             <h3 className="text-xl font-semibold text-gray-800">Szokások</h3>
             <p className="text-gray-600">
-              Halloween alkalmával sokan öltöznek jelmezekbe, és elindulnak édességgyűjtő körútra, az úgynevezett "csokit vagy csalunk" hagyomány szerint. Ezen kívül ijesztő dekorációkat készítenek, és különféle bulikat, eseményeket szerveznek.
+              Halloween alkalmával sokan öltöznek jelmezekbe, és elindulnak édességgyűjtő körútra, az úgynevezett &quot;csokit vagy csalunk&quot; hagyomány szerint. Ezen kívül ijesztő dekorációkat készítenek, és különféle bulikat, eseményeket szerveznek.
             </p>
           </Card>
 
